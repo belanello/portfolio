@@ -2,12 +2,8 @@
 title: "List of Projects"
 author: "Ayako Nagao, "  
 date: "Last updated `r format(Sys.time(), '%d %B %Y')`"
-output: github_document
+output: html_document
 ---
-
-
-
-
 
 
 ## [Next Word Prediction](https://github.com/belanello/NLP) 
