@@ -2,7 +2,7 @@
 title: "List of Projects"
 author: "Ayako Nagao, "  
 date: "Last updated `r format(Sys.time(), '%d %B %Y')`"
-output: html_document
+output: github_document
 ---
 
 
