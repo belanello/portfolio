@@ -1,0 +1,72 @@
+List of Projects
+================
+Ayako Nagao,
+Last updated 20 May 2023
+
+## [Next Word Prediction](https://github.com/belanello/NLP)
+
+##### R/Language Model
+
+Whenever we type texts on search engines, word documents, mobile phone
+apps etc, applications often show us possible next words we are going to
+type in. In this project, using the large text dataset sourced from
+twitter posts, news and blogs, try to build the predictive model of
+English texts that works in the same way. Details about data used,
+algorithm and accuracy are in presentation slide below.
+
+- Exploratory Analysis: [Rpub](https://rpubs.com/NAyako/1036093) /
+  [Code](https://github.com/belanello/NLP/blob/main/Milestone.Rmd)
+- Shiny App: [App](https://belanello.shinyapps.io/NextWordPrediction/) /
+  [Code](https://github.com/belanello/NLP/tree/main/NextWordPrediction)
+- Presentation slide: [Rpub](https://rpubs.com/NAyako/1042535)
+
+*\# This is for a capstone project of coursera Data Science
+Specialization by Johns Hopkins University*
+
+## [Quick Data Summary Shiny Application](https://github.com/belanello/ShinyApp)
+
+##### R/Data product
+
+As a first exploratory analysis we routinely check its dimension,
+classes, statistics, missing values, correlations and so on. There are
+packages that enable us to see the summaries at once or display a matrix
+of graphs, but sometimes it’s difficult to find information we need at a
+glance. By using this app, you can explore your data in one page, graph
+the data with different variables without executing the same code
+multiple times.
+
+Shiny App : [App](https://belanello.shinyapps.io/QuickDataSummary/) /
+[Code](https://github.com/belanello/ShinyApp/tree/main/R) /
+[Presentation slide](https://belanello.github.io/ShinyApp/#/)
+
+*\# This is Developing Data Products course project by coursera*
+
+## [Qualitative Activity Recognition of Weight Lifting](https://github.com/belanello/activityRecognition)
+
+##### R/Classification task
+
+Exercises\](<https://github.com/belanello/activityRecognition>)  
+The Qualitative Activity Recognition is to recognize how well the
+certain activities are performed. In this project, we use the data
+Weight Lifting Exercises Dataset, which was collected by wearable
+sensors while participants are performing the weight lifting exercises
+in correct ways and also with a set of common mistakes. The goal of this
+project is to build the model to classify the exercise categories.
+
+[Qualitative Activity Recognition of Weight Lifting
+Exercises](https://belanello.github.io/activityRecognition/)
+
+*\# This is a Final assignment of Practical Machine Learning course by
+coursera*
+
+## [Digit Recognition with SVM](https://github.com/belanello/Digit_Recognizer)
+
+##### python/Classification task
+
+This project is for the Digit Recognizer competition, which is one of
+the introductory competitions to the computer vision in Kaggle. The goal
+is to correctly identify digits from a dataset of handwritten images. In
+this project, I use SVM(Support Vector Machine).
+
+[Jupyter
+Notebook](https://nbviewer.org/github/belanello/Digit_Recognizer/blob/main/digits.ipynb)
