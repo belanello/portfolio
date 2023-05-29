@@ -1,7 +1,7 @@
 List of Projects
 ================
 Ayako Nagao,
-Last updated 20 May 2023
+Last updated 28 May 2023
 
 ## [Next Word Prediction](https://github.com/belanello/NLP)
 
@@ -41,11 +41,10 @@ Shiny App : [App](https://belanello.shinyapps.io/QuickDataSummary/) /
 
 *\# This is Developing Data Products course project by coursera*
 
-## [Qualitative Activity Recognition of Weight Lifting](https://github.com/belanello/activityRecognition)
+## [Qualitative Activity Recognition of Weight Lifting Exercises](https://github.com/belanello/activityRecognition)
 
 ##### R/Classification task
 
-Exercises\](<https://github.com/belanello/activityRecognition>)  
 The Qualitative Activity Recognition is to recognize how well the
 certain activities are performed. In this project, we use the data
 Weight Lifting Exercises Dataset, which was collected by wearable
